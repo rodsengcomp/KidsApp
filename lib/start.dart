@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_swiper/flutter_swiper.dart';
-import 'package:reciclaanda2/models/cart_model.dart';
-import 'package:reciclaanda2/models/user_model.dart';
-import 'package:reciclaanda2/screens/home_screen.dart';
+import 'package:kidsapp/models/cart_model.dart';
+import 'package:kidsapp/models/user_model.dart';
+import 'package:kidsapp/screens/home_screen.dart';
 import 'package:scoped_model/scoped_model.dart';
 
 class Start extends StatelessWidget {
